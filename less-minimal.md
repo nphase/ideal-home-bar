@@ -46,6 +46,7 @@
 
 1. Lemons
 2. Limes
+3. Simple Syrup
 3. Angostura Bitters 
 4. Regan's Orange Bitters
 5. Tonic Water - Fever Tree
