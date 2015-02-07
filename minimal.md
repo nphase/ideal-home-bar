@@ -18,7 +18,7 @@
 
 1. Tito's
 
-### Liquers and Bitters
+### Liqueurs and Bitters
 
 1. Campari
 2. Cynar
